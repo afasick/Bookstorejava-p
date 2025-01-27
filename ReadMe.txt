@@ -1,6 +1,6 @@
 Introduction:
 
-This document contains instructions on how to configure and install the 
+This document contains indfdfffstructions on how to configure and install the 
 downloaded ASPX application. It assumes that:
 
 1. You have some basic knowledge of server and database technologies.
